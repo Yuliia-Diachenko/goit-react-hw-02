@@ -4,6 +4,7 @@ button {
     border-radius: 10px;
     color: rgb(1, 42, 42);
     width: 100px;
+    height: 30px;
 }
 .container {
     display: flex;
